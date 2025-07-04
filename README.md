@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">I'm Raoul Bock from Namibia.<br><br>- 🔭 I’m working as ERP Developer<br>- 📚 I'm currently learning NEXTjs<br>- ⚡ In my free time I program.</h4>
+<h4 align="left">I'm a ERP developer from Namibia.<br><br>- 🔭 I’m working as ERP Developer<br>- 📚 I'm currently learning NEXTjs<br>- ⚡ In my free time I program.</h4>
 
 ###
 
