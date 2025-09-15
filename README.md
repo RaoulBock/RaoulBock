@@ -54,7 +54,7 @@ When I’m not deep in enterprise systems, I spend time programming for fun, exp
 
 ---
 
-### 🕹 GitHub Contribution Graph
+### 🕹 GitHub Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raoulbock/raoulbock/output/pacman-contribution-graph-dark.svg">
